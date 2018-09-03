@@ -1,0 +1,43 @@
+
+数据库列表信息
+1.access_log			日志访问表 
+2.contract				购销合同
+3.contract_product		合同下货物
+4.dept               	部门表 
+5.export				报运单
+6.export_product		报运商品明细
+7.ext_cproduct			合同下附件
+8.ext_eproduct			报运商品附件
+9.factory				生产厂家
+10.feedback				意见反馈表 
+11.finance				财务报运单
+12.home_packing_list	HOME装箱单
+13.invoice				发票
+14.module				模块表 
+15.online_info_t        曲线图临时表 
+16.packing_list			装箱单
+17.product				产品
+18.role                 角色表 
+19.shipping_order		委托单
+20.user					用户表 
+21.user_info_p			用户信息扩展表 
+22.user_temp			用户模板表 
+23.vote_record			投票记录表 
+
+maven项目模块说明
+1.wl-basicInfo	    基础信息模块
+2.wl-freightManage	货运管理模块
+3.wl-statistic		统计报表模块
+4.wl-sysManagement	系统管理模块
+
+
+
+
+
+
+
+
+
+
+
+
